@@ -25,35 +25,28 @@ Virtualenv: Recommended to create an isolated environment for the project.
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/Alinedaei/myblog-resume.git
 cd myblog-resume
 Create a virtual environment:
 
-bash
-Copy code
+
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 Install the required packages:
 
-bash
-Copy code
 pip install -r requirements.txt
 Apply migrations:
 
-bash
-Copy code
+
 python manage.py migrate
 Create a superuser:
 
-bash
-Copy code
+
 python manage.py createsuperuser
 Run the development server:
 
-bash
-Copy code
+
 python manage.py runserver
 Access the application:
 Open your browser and go to http://127.0.0.1:8000/ to view the website. You can access the admin panel at http://127.0.0.1:8000/admin/.
