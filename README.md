@@ -1,4 +1,5 @@
-MyBlog-Resume
+#MyBlog-Resume#
+
 About the Project
 MyBlog-Resume is a personal blog and resume website built using the Django framework. The purpose of this project is to provide a simple platform for sharing content and showcasing professional skills and experiences. It allows you to manage blog posts and create a dynamic, customizable resume page.
 
