@@ -62,7 +62,7 @@ SecretStorage==3.3.1
 service-identity==18.1.0
 six==1.16.0
 sos==4.5.6
-sqlparse==0.4.2
+sqlparse==0.5.0
 ssh-import-id==5.11
 systemd-python==234
 texttable==1.6.4
