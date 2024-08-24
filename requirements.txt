@@ -66,7 +66,7 @@ sqlparse==0.4.2
 ssh-import-id==5.11
 systemd-python==234
 texttable==1.6.4
-Twisted==22.1.0
+Twisted==24.7.0
 ubuntu-advantage-tools==8001
 ubuntu-drivers-common==0.0.0
 ufw==0.36.1
